@@ -1,7 +1,7 @@
 # Great podcasts
 
 A list of interesting podcasts related to the software development industry, originated from [this
-article](https://codesi.nz/my-favorite-podcasts://codesi.nz/my-favorite-podcasts/).  
+article](https://codesi.nz/my-favorite-podcasts/)
 
 Contributions are highly encouraged! To have this be a pleasant experience for everyone, please read the [contribution guidelines](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md).
 
